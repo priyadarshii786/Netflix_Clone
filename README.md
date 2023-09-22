@@ -2,7 +2,7 @@
 
 https://priyadarshii786.github.io/Netflix_Clone/
 
-# There might be cases when the link flashes "dangerous site" when clicked, but there's nothing like that so just visit the amazing clone deployed by me.
+# There might be cases when link flashes "dangerous site", but there's nothing like that so just visit the amazing clone deployed by me.
 
 
 ![Netflix_Clone_3](https://github.com/priyadarshii786/Netflix_Clone/assets/100780858/6306221d-69c7-4451-b73b-8dbc1d6ac4c3)
